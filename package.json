@@ -1,0 +1,15 @@
+{
+  "name": "readme_file_generator",
+  "version": "1.0.0",
+  "description": "This is application generates readme file by getting input from the users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node-fetch": "^2.6.1"
+  }
+}
